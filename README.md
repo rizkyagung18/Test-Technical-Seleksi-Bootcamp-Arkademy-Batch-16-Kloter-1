@@ -3,7 +3,7 @@ Repository untuk menjawab soal test seleksi bootcamp Arkademy Batch 16 Kloter 1
 
 Note : Disini saya menggunakan bahasa pemrograman JavaScript
 
-Untuk menjalankan dapat dicoba melalui web https://es6console.com
+Untuk menjalankan dapat dicoba melalui web https://es6console.com atau browser console 
 
 File 1.js : Untuk menampilkan biodata, untuk menjalankan ketik pada console : console.log(bio('nama', 'umur')). JSON(JavaScript Object Notation) merupakan sebuah format data yang digunakan untuk pertukaran dan penyimpanan data. Fungsi JSON pada REST API adalah sebagai format untuk bertukar data client dan server atau antar aplikasi
 
