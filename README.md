@@ -1,5 +1,6 @@
 # Test-Technical-Seleksi-Bootcamp-Arkademy-Batch-16-Kloter-1
 Repository untuk menjawab soal test seleksi bootcamp Arkademy Batch 16 Kloter 1
+
 Note : Disini saya menggunakan bahasa pemrograman JavaScript
 
 Untuk menjalankan dapat dicoba melalui web https://es6console.com
